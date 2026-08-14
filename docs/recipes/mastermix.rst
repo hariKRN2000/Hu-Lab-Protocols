@@ -4,9 +4,9 @@ Mastermix Recipes
 Example 1 - Golden gate mastermix
 --------
 
-# Subheading
-## Subheading 2
-### Subheading 3
+Subheading
+----------
+----------
 
 Some notes... 
 
