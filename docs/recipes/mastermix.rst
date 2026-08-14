@@ -9,7 +9,7 @@ Some notes...
 ============  =========
 Component     Quantity
 ============  =========
-Component 1   XX g
+Component 1   10 g
 Component 2   XX g
 ============  =========
 
